@@ -1,0 +1,19 @@
+hp-plurk-api is a Plurk API Client implementation with PHP.
+
+the API Official Website: http://www.plurk.com/API
+Code Repository: https://code.google.com/p/php-plurk-api/
+php-plurk-api online documents: http://plurk.lab3.tw/docs/
+very strongly suggested running the API in CLI (Commandline Interface) Mode.
+
+your environment should have at least two extensions, including php5-json and php5-curl.
+
+Committers: roga, appleboy, whatup, chrisliu, limit thanks for their contribution.
+
+the API Official Website:
+http://www.plurk.com/API
+ 
+Code Repository:
+https://code.google.com/p/php-plurk-api/
+
+php-plurk-api online documents:
+http://plurk.lab3.tw/docs/
